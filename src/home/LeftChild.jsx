@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Typography, Divider, styled } from "@mui/material";
+import { Box,  styled } from "@mui/material";
 
 const LeftComponent = styled(Box)`
 min-width:150px;

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import LeftChild from "./LeftChild";
 import RightChild from "./RightChild";
 import { data } from "../data/data";
-import { Box, Dialog,styled } from "@mui/material";
+import { Box,styled } from "@mui/material";
 
 const Component = styled(Box)`
 display:flex;
